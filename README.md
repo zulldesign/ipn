@@ -1,4 +1,0 @@
-ipn
-===
-
-Instance Payment Notification
