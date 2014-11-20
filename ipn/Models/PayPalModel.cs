@@ -1,5 +1,5 @@
 ﻿using System.Configuration;
-namespace PaypalMVC4.Models
+namespace ipn.Models
 {
     public class PayPalModel
     {
